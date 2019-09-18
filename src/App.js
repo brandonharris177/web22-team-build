@@ -22,7 +22,11 @@ function App() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          ZEIT Now
+          GET TO DA CHOPPPPPAAAAAAAA
+          GET TO DA CHOPPPPPAAAAAAAA
+          GET TO DA CHOPPPPPAAAAAAAA
+          GET TO DA CHOPPPPPAAAAAAAA
+
         </a>
         !
       </h2>
